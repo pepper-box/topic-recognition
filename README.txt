@@ -6,6 +6,12 @@ data文件夹下包含了实验所用到的所有数据，包含以下几个文�
 	⑤tag2.txt: 二级主题构成的列表，请使用eval进行读取。
 	⑥tag2_3.txt:请使用eval进行读取，读取后会获得一个字典对象，字典的键是二级主题，值是该二级主题包含的三级主题所构成的列表。
 	以此类推
+	
+	
+链接：https://pan.baidu.com/s/1F9ZYfeCEI4kMmWZvtT23mg 
+提取码：nywq
+
 
 
 code文件夹下为实验代码，开发工具为Jupyter Notebook
+
